@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi! I'm Itzel Yaneli Gutierrez 🍓
 
-<!--
-**Itzelgutierrez4/itzelgutierrez4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineering student** passionate about programming, electronics and circuits, and always eager to learn new things.
 
-Here are some ideas to get you started:
+##  Technologies & Interests
+* **Programming:** 
+* **Electronics & circuits**
+* **Web development**
+* **Computer networks**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Academic & Professional Goals
+* Complete my Computer Engineering degree
+* Grow my portfolio with academic and personal projects
+* Find internship opportunities to gain real-world experience
+* Keep learning something new every day
+
+## How to Reach Me
+* **LinkedIn:** [Itzel Yaneli Gutiérrez Castellanos] https://www.linkedin.com/in/itzel-yaneli-guti%C3%A9rrez-castellanos/
